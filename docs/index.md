@@ -1,6 +1,6 @@
-## chisqnet: Auto-tuning of Chi-Squared Tests for Gravitational Wave Searches with Machine Learning
+## Using machine learning to auto-tune chi-squared tests for gravitational wave searches
 
-This page contains links to the relevant codes used in the work "chisqnet: Auto-tuning of Chi-Squared Tests for Gravitational Wave Searches with Machine Learning".
+This page contains links to the relevant codes used in the work "Using machine learning to auto-tune chi-squared tests for gravitational wave searches".
 
 ### Code
 
@@ -10,7 +10,7 @@ This code and the search with the model included use a modified version of the P
 
 ### Results
 
-
+The trained model used in the paper can be found in this [file](https://github.com/icg-gravwaves/chisqnet/blob/main/results/chisq_model.hdf). To load the model use the function [load_transformation](https://github.com/connor-mcisaac/chisqnet/blob/944c9158e6f9d6806e93ba928ea715a03c253ab9/chisqnet/filtering.py#L1886).
 
 ### Contact
 
